@@ -1,4 +1,4 @@
-# Hi, I'm Samy Castro 👋
+# Hi, I'm Samy Castro
 
 **Computational Neuroscientist**
 
@@ -31,6 +31,8 @@ I'm a senior postdoctoral researcher at the **FunSy team** ([LNCA](https://lnca.
 - **Cortical ignition dynamics is tightly linked to the core organisation of the human connectome** — *PLoS computational biology* 16 (7), e1007686 *2020* · S. Castro, W. El-Deredy, D. Battaglia & P. Orio
 - **Structural features of the human connectome that facilitate the switching of brain dynamics via noradrenergic neuromodulation** — *Frontiers in Computational Neuroscience* 15 687075 *2021* · C. Coronel-Oliveros, S. Castro, R. Cofre, & P. Orio
 - **Chaos versus noise as drivers of multistability in neural networks** — *Chaos: An Interdisciplinary Journal of Nonlinear Science* 28 (10) *2018* P. Orio, M. Gatica, R. Herzog, JP. Maidana, S. Castro, & K. Xu.
+
+-> [google scholar website](https://scholar.google.com/citations?user=aUxULAYAAAAJ&hl=es)
 
 ---
 

@@ -1,5 +1,5 @@
-![banner](https://github.com/SamyCN89/SamyCN89/main/banner.png)
 # Hi, I'm Samy Castro
+![banner](https://raw.githubusercontent.com/SamyCN89/SamyCN89/main/banner.png)
 
 **Computational Neuroscientist**
 

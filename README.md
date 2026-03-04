@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/SamyCN89/SamyCN89/banner.png)
+![banner](https://github.com/SamyCN89/SamyCN89/main/banner.png)
 # Hi, I'm Samy Castro
 
 **Computational Neuroscientist**
